@@ -1,0 +1,3 @@
+select amt * no_of_person
+  into 
+from dual;
